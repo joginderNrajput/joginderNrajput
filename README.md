@@ -1,5 +1,5 @@
-### Hi there 👋 I'm Joginder Singh
-## I'm a Computer Science Engineering Student in MBM University
+## Hi there 👋 I'm Joginder Singh
+### I'm a Computer Science Engineering Student in MBM University
 <!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
