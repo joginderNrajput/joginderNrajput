@@ -12,4 +12,3 @@
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joginderNrajput&theme=radical&hide_border=true)](https://github.com/joginderNrajput/github-readme-stats)
