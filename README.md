@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Joginder Singh
-### I'm a Computer Science Engineering Student in MBM University
+### I'm Software Engineer
 
-###### A Computer Science and Engineering (CSE) B.Tech. student from M.B.M Engineering, Jodhpur which is now a M.B.M University with excellent academic background and diverse skillset. Experienced in Web, Python. I am well versed with, Rest Apis, Python, Java, C++ and basics of JavaScript & CSS.
+###### As an Software Engineer at Kanerika Software Private Limited, I specialize in full-stack development, leveraging a diverse skill set to create robust and scalable applications. My journey in software engineering has equipped me with expertise in both frontend and backend technologies. I am familiar with several programming languages, including C++, Java, JavaScript, Typescript, and Python..
 <!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
